@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="gui-study:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b041d37-859d-4b9c-8c98-0483d26a0dd1" name="Default Changelist" comment="基于javaGUI的贪吃蛇小游戏">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/gui_study_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gui-study/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gui-study/META-INF/gui-study.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gui-study/snake/Data.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gui-study/snake/GamePanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gui-study/snake/StartGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gui-study/snake/statics/body.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gui-study/snake/statics/down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gui-study/snake/statics/food.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gui-study/snake/statics/header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gui-study/snake/statics/left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gui-study/snake/statics/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gui-study/snake/statics/up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snake/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snake/GamePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snake/StartGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snake/statics/body.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snake/statics/down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snake/statics/food.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snake/statics/header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snake/statics/left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snake/statics/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snake/statics/up.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="xyf" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Idea_project\gui-study\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.1-bin/apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b4RlD4McuAx8ZKICeRCzjTpQuw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17307693" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Idea_project\gui-study\src\snake" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Idea_project\gui-study\statics" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestJframe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="snake.StartGame" />
+      <module name="gui-study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestJframe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b041d37-859d-4b9c-8c98-0483d26a0dd1" name="Default Changelist" comment="" />
+      <created>1587889527752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587889527752</updated>
+      <workItem from="1587889530294" duration="11387000" />
+      <workItem from="1587973371341" duration="1591000" />
+      <workItem from="1588053656615" duration="536000" />
+      <workItem from="1588054394087" duration="350000" />
+      <workItem from="1588058218861" duration="524000" />
+      <workItem from="1588061445134" duration="860000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="基于javaGUI的贪吃蛇小游戏" />
+    <option name="LAST_COMMIT_MESSAGE" value="基于javaGUI的贪吃蛇小游戏" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="622" y="74" key="#Deployment" timestamp="1588062168964">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="622" y="74" key="#Deployment/0.0.1536.824@0.0.1536.824" timestamp="1588062168964" />
+    <state x="361" y="74" key="#Project_Structure" timestamp="1588062268755">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1588062268755" />
+    <state x="162" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587890715903">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="162" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1587890715903" />
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1587893977867">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1587893977867" />
+    <state x="362" y="380" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587897890750">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="380" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1587897890750" />
+    <state x="646" y="10" key="CommitChangelistDialog2" timestamp="1588062251034">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="646" y="10" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1588062251034" />
+    <state x="651" y="165" key="FileChooserDialogImpl" timestamp="1588061687669">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="651" y="165" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588061687669" />
+    <state x="942" y="324" width="273" height="201" key="Github.ShareDialog" timestamp="1588061616446">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="942" y="324" width="273" height="201" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1588061616446" />
+    <state width="958" height="210" key="GridCell.Tab.0.bottom" timestamp="1587907039662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="958" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587907039662" />
+    <state width="958" height="210" key="GridCell.Tab.0.center" timestamp="1587907039662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="958" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587907039662" />
+    <state width="958" height="210" key="GridCell.Tab.0.left" timestamp="1587907039661">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="958" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587907039661" />
+    <state width="958" height="210" key="GridCell.Tab.0.right" timestamp="1587907039662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="958" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587907039662" />
+    <state x="467" y="47" key="SettingsEditor" timestamp="1588061486153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="467" y="47" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588061486153" />
+    <state x="356" y="36" key="new project wizard" timestamp="1587897640123">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="356" y="36" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1587897640123" />
+  </component>
+</project>
